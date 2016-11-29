@@ -1,3 +1,9 @@
+---
+layout: page
+title: Goals
+permalink: /goals/
+---
+
 ## Goals
 
 * That every participant understands the main idea of the research line (get the point across)

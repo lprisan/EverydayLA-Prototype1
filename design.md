@@ -1,3 +1,9 @@
+---
+layout: page
+title: Design
+permalink: /design/
+---
+
 ## Plan/Activities
 
 As it is right now, it will probably take 90' meeting. Adjust if needed!
