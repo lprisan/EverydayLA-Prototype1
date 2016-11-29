@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Design
+title: Plan/Activities
 permalink: /design/
 ---
-
-## Plan/Activities
 
 As it is right now, it will probably take 90' meeting. Adjust if needed!
 
