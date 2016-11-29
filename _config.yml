@@ -1,4 +1,12 @@
-name: Everyday Learning Analytics
-markdown: kramdown
+title: Everyday Learning Analytics
+author: Luis P. Prieto
+email: lprisan@hotmail.com
+description: A first prototype of what Everyday Learning Analytics might look like
 baseurl: /EverydayLA-Prototype1
+
+# Build settings
+markdown: kramdown
 theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
