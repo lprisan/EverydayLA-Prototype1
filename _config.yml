@@ -1,0 +1,4 @@
+name: Everyday Learning Analytics
+markdown: kramdown
+baseurl: /EverydayLA-Prototype1
+theme: minima
