@@ -4,3 +4,4 @@
 * That every participant has a chance to voice his/her opinions (participation)
 * Have a decision on whether to move forward with the idea (decision)
 * Have a list of concrete next steps to develop the idea (next steps)
+* Some other goal
